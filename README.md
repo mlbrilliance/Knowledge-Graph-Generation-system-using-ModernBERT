@@ -4,6 +4,9 @@ This project leverages **ModernBERT** and other NLP tools to create a knowledge 
 
 ---
 
+## Developer: Nick Sudh  - https://www.mlbrilliance.com/
+---
+
 ## Features
 - **Entity Extraction**: Uses ModernBERT's `fill-mask` pipeline to extract entities.
 - **Relationship Extraction**: Identifies relationships between entities using masked language modeling.
